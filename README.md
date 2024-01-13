@@ -1,1 +1,2 @@
 # Dimensionality-Reduction-on-Wine-Dataset
+This repository contains the code and documentation for a data mining assignment focused on the application of Principal Component Analysis (PCA) and Fast Independent Component Analysis (FastICA) on wine data. The goal of this assignment is to explore and understand the underlying patterns and relationships within the dataset by leveraging dimensionality reduction techniques.
